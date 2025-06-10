@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "post_name": "Exploring the Mountains: A Guide to Hiking Adventures",
+    "cover_image": "https://images.unsplash.com/photo-1504198458649-3128b932f49f?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Emma Stone",
+    "author_image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "hashtags": ["#hiking", "#adventure", "#nature"],
+    "reading_time": "5 min read",
+    "posted_date": "2025-06-01",
+    "article": "Hiking in the mountains can be one of the most rewarding experiences. From the fresh air to the breathtaking views, it offers a unique escape from everyday life. In this article, we explore the top tips for a safe and fun hiking trip."
+  },
+  {
+    "id": 2,
+    "post_name": "Minimalist Living: How to Declutter Your Life",
+    "cover_image": "https://images.unsplash.com/photo-1618220179428-22790b402f58?auto=format&fit=crop&w=800&q=80",
+    "author_name": "John Carter",
+    "author_image": "https://randomuser.me/api/portraits/men/65.jpg",
+    "hashtags": ["#minimalism", "#lifestyle", "#organization"],
+    "reading_time": "6 min read",
+    "posted_date": "2025-06-03",
+    "article": "Minimalist living is more than just having fewer things—it's about focusing on what truly matters. This guide walks you through simple steps to declutter both your space and your mind."
+  },
+  {
+    "id": 3,
+    "post_name": "10 Best Recipes for Quick Weeknight Dinners",
+    "cover_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Rachel Green",
+    "author_image": "https://randomuser.me/api/portraits/women/22.jpg",
+    "hashtags": ["#cooking", "#recipes", "#food"],
+    "reading_time": "7 min read",
+    "posted_date": "2025-06-04",
+    "article": "Cooking during busy weekdays doesn’t have to be stressful. Here are 10 quick and delicious recipes that will keep you well-fed and satisfied without spending hours in the kitchen."
+  },
+  {
+    "id": 4,
+    "post_name": "The Future of AI: Trends to Watch in 2025",
+    "cover_image": "https://images.unsplash.com/photo-1564869737314-5d92b984b28e?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Alex Johnson",
+    "author_image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "hashtags": ["#AI", "#technology", "#future"],
+    "reading_time": "8 min read",
+    "posted_date": "2025-06-05",
+    "article": "Artificial Intelligence is rapidly evolving. In 2025, expect major breakthroughs in generative AI, ethics, automation, and industry integration. This article explores the key developments to keep an eye on."
+  },
+  {
+    "id": 5,
+    "post_name": "How to Start a Successful Freelance Career",
+    "cover_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Sara Patel",
+    "author_image": "https://randomuser.me/api/portraits/women/55.jpg",
+    "hashtags": ["#freelance", "#career", "#selfemployed"],
+    "reading_time": "4 min read",
+    "posted_date": "2025-06-06",
+    "article": "Freelancing can offer freedom and flexibility, but it also comes with challenges. Learn the steps to get started, find clients, and build a thriving freelance business from the ground up."
+  },
+  {
+    "id": 6,
+    "post_name": "Top 10 Travel Destinations for 2025",
+    "cover_image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "author_name": "David Lee",
+    "author_image": "https://randomuser.me/api/portraits/men/76.jpg",
+    "hashtags": ["#travel", "#destinations", "#explore"],
+    "reading_time": "5 min read",
+    "posted_date": "2025-06-02",
+    "article": "Looking to plan your next big trip? We’ve rounded up 10 must-visit destinations for 2025 that offer everything from adventure to cultural immersion."
+  },
+  {
+    "id": 7,
+    "post_name": "Mastering the Art of Photography",
+    "cover_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Emily Richards",
+    "author_image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "hashtags": ["#photography", "#creativity", "#art"],
+    "reading_time": "6 min read",
+    "posted_date": "2025-06-07",
+    "article": "Photography is more than just clicking a button. From composition to lighting, this beginner’s guide covers the fundamentals of taking stunning photos with any camera."
+  },
+  {
+    "id": 8,
+    "post_name": "Beginner's Guide to Investing in Crypto",
+    "cover_image": "https://images.unsplash.com/photo-1611078489935-0cb964deb935?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Michael Scott",
+    "author_image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "hashtags": ["#crypto", "#finance", "#investing"],
+    "reading_time": "9 min read",
+    "posted_date": "2025-06-08",
+    "article": "Cryptocurrency can be overwhelming for newcomers. This guide explains the basics, from choosing a wallet to understanding blockchain and avoiding scams."
+  },
+  {
+    "id": 9,
+    "post_name": "Mindfulness Techniques for Daily Life",
+    "cover_image": "https://images.unsplash.com/photo-1520975911413-60c8e53d7e80?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Lily James",
+    "author_image": "https://randomuser.me/api/portraits/women/39.jpg",
+    "hashtags": ["#mindfulness", "#meditation", "#mentalhealth"],
+    "reading_time": "4 min read",
+    "posted_date": "2025-06-08",
+    "article": "Mindfulness can transform your daily life, helping you stay calm, focused, and grounded. Learn easy techniques to incorporate mindfulness into your routine."
+  },
+  {
+    "id": 10,
+    "post_name": "Understanding Climate Change and What You Can Do",
+    "cover_image": "https://images.unsplash.com/photo-1558980664-10c236e6e2c9?auto=format&fit=crop&w=800&q=80",
+    "author_name": "Robert King",
+    "author_image": "https://randomuser.me/api/portraits/men/87.jpg",
+    "hashtags": ["#climate", "#environment", "#sustainability"],
+    "reading_time": "7 min read",
+    "posted_date": "2025-06-09",
+    "article": "Climate change is one of the most urgent issues of our time. This article breaks down what’s happening, why it matters, and what you can do to make a difference."
+  }
+]
