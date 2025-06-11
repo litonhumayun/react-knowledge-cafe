@@ -28,7 +28,7 @@ const Blog = ({ blog, handleAddBookmark }) => {
         <div>
           <span>{reading_time} min read</span>
           <button
-            onClick={handleAddBookmark}
+            onClick={() => handleAddBookmark(blog)}
             className="ml-2 text-red-600 text-2xl hover:text-red-800"
           >
             <CiBookmark />
