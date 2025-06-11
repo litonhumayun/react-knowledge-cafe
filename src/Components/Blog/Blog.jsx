@@ -1,6 +1,6 @@
 import { CiBookmark } from "react-icons/ci";
 
-const Blog = ({ blog, handleAddBookmark }) => {
+const Blog = ({ blog, handleAddBookmark, handleReadingTime }) => {
   const {
     cover_image,
     post_name,
@@ -41,7 +41,13 @@ const Blog = ({ blog, handleAddBookmark }) => {
           <div key={index}>#{hash}</div>
         ))}
       </div>
-      <p className="text-gray-700">{article}</p>
+      <button
+        onClick={() => handleReadingTime(reading_time)}
+        className="underline text-bold text-purple-800 hover:text-purple-600"
+      >
+        Mark as Read
+      </button>
+      <p className="text-gray-700 mt-2">{article}</p>
     </div>
   );
 };
