@@ -13,11 +13,17 @@ function App() {
     setBookmarks(newBookmarks);
   };
 
-  const handleReadingTime = (time) => {
+  const handleReadingTime = (id, time) => {
     console.log("reading time is to be added soon", time);
     const newReadingTime = readingTime + time;
     setReadingTime(newReadingTime);
+    // console.log("remove bookmark", id);
+    const remainingBookmarks = bookmarks.filter(
+      (bookmark) => bookmark.id !== id
+    );
+    setBookmarks(remainingBookmarks);
   };
+
   return (
     <div className="mx-auto max-w-7xl p-4">
       <Header />

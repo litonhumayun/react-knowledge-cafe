@@ -2,6 +2,7 @@ import { CiBookmark } from "react-icons/ci";
 
 const Blog = ({ blog, handleAddBookmark, handleReadingTime }) => {
   const {
+    id,
     cover_image,
     post_name,
     article,
@@ -42,7 +43,7 @@ const Blog = ({ blog, handleAddBookmark, handleReadingTime }) => {
         ))}
       </div>
       <button
-        onClick={() => handleReadingTime(reading_time)}
+        onClick={() => handleReadingTime(id, reading_time)}
         className="underline text-bold text-purple-800 hover:text-purple-600"
       >
         Mark as Read
